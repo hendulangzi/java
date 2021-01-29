@@ -1,0 +1,10 @@
+部署redis
+https://www.cnblogs.com/ft-it-space/p/5904079.html
+config set requirepass test123
+
+
+部署tomcat
+https://blog.csdn.net/qq_28189423/article/details/82378779
+
+部署 jdk
+https://blog.51cto.com/10433221/1934194
